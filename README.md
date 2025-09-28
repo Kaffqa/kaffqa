@@ -41,9 +41,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/kaffqa/kaffqa/output/snake.svg" alt="Snake animation" />
-
-###
-
